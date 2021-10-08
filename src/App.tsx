@@ -1,7 +1,7 @@
 import logo from './logo.png';
 import './App.css';
 
-const linkWapp = 'https://api.whatsapp.com/send?phone=+573103822900&text=Hola!%20Quiero%20m%C3%A1s%20info%20acerca%20de%20';
+const linkWapp = 'https://api.whatsapp.com/send?phone=+573113093995&text=Hola!%20Quiero%20m%C3%A1s%20info%20acerca%20de%20';
 
 function App() {
   return (
